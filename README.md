@@ -29,7 +29,7 @@ https://virtualenv.pypa.io/en/stable/installation/
 Копируем их и запоминаем
 
 ## Таблица с оценками
-Возможно использовать в двух форматах: JSON и CSV:
+Предлагается использовать файл в одном из двух форматов: JSON и CSV:
 ```json
 {
   "Иванов Пупк":[25, 13],
@@ -49,5 +49,6 @@ https://virtualenv.pypa.io/en/stable/installation/
 ## Запуск
 `marks.py --csrf <csrf_token> --cookie <sessionid_gtp> --discipline <DISCIPLINE> FILE`
 
-здесь FILE - json или csv файл с оценками
+здесь FILE - json или csv файл с оценками. 
+
 больше параметров можно узнать через marks.py --help
