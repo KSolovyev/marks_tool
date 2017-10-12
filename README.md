@@ -11,6 +11,13 @@ https://www.python.org/download/releases/2.7/
 2. Дальше ставим virtualenv
 https://virtualenv.pypa.io/en/stable/installation/
 
+3. Создаем virtual env:
+`mkvirtualenv dev`
+dev можно заменить на любое другое название. 
+Эта команда создаст изолированную среду питона в папке ~/.virtualenvs. 
+Активировать ее в текущей сессии консоли можно с помощью
+`source ~/.virtualenvs/dev/bin/activate`
+
 3. Устанавливаем зависимости. В папке проекта выполнить
 `pip install -r requirements.txt`
 
