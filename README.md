@@ -13,7 +13,9 @@ https://virtualenv.pypa.io/en/stable/installation/
 
 3. Создаем virtual env:
 `mkvirtualenv dev`
+
 dev можно заменить на любое другое название. 
+
 Эта команда создаст изолированную среду питона в папке ~/.virtualenvs. 
 Активировать ее в текущей сессии консоли можно с помощью
 `source ~/.virtualenvs/dev/bin/activate`
