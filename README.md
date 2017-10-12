@@ -53,3 +53,9 @@ https://virtualenv.pypa.io/en/stable/installation/
 здесь FILE - json или csv файл с оценками. 
 
 больше параметров можно узнать через marks.py --help
+
+Если в конце написало, что 
+```
+All marks were successfully set
+```
+То оценки должны появится на портале
