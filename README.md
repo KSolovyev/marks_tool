@@ -59,3 +59,5 @@ https://virtualenv.pypa.io/en/stable/installation/
 All marks were successfully set
 ```
 То оценки должны появится на портале
+
+П.С. Надеюсь нас всех не забанят =)
